@@ -1,0 +1,2 @@
+DEFAULT_FILE atom control_operation_fsm.vhd
+DEFAULT_ARCHITECTURE atom fsm

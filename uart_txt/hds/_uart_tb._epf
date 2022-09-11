@@ -1,0 +1,2 @@
+DEFAULT_FILE atom uart_tb.v
+TOP_MARKER atom 1

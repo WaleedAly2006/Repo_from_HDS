@@ -1,0 +1,152 @@
+DESIGN cpu_interface
+VIEW interface
+NO_GRAPHIC 0
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 207,0 8 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1785,0 14 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1740,0 15 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1745,0 16 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1750,0 17 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1760,0 18 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1765,0 19 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1795,0 20 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1770,0 21 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1775,0 22 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1780,0 23 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1755,0 24 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1790,0 25 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1800,0 26 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1,0 29 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1,0 30 0 
+DESIGN cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 33
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 6,0 42 0 
+DESIGN cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 45
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 0,0 48 2 
+DESIGN cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 54
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm
+GRAPHIC 1030,0 56 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 152,0 58 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 158,0 59 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 164,0 60 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 176,0 61 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 182,0 62 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 194,0 63 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 146,0 64 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 170,0 65 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 188,0 66 0 
+LIBRARY UART
+DESIGN cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 69
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 1030,0 72 0 
+DESIGN cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 75
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 183,0 78 0 
+DESIGN cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 81
+DESIGN cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 82
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 1030,0 84 0 
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 159,0 86 0 
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 39,0 87 0 
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 52,0 88 0 
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 104,0 89 0 
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 173,0 90 0 
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 143,0 91 0 
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 13,0 92 0 
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 91,0 93 0 
+DESIGN cpu_interface
+VIEW struct.bd
+GRAPHIC 130,0 94 0 
+DESIGN cpu_interface
+VIEW struct.bd
+NO_GRAPHIC 97

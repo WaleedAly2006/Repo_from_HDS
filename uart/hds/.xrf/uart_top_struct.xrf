@@ -1,0 +1,311 @@
+DESIGN uart_top
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 261,0 8 0 
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 23,0 15 0 
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 29,0 16 0 
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 35,0 17 0 
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 41,0 18 0 
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 59,0 19 0 
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 65,0 20 0 
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 71,0 21 0 
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 47,0 22 0 
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 53,0 23 0 
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 77,0 24 0 
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 1,0 27 0 
+DESIGN uart_top
+VIEW symbol.sb
+GRAPHIC 1,0 28 0 
+DESIGN uart_top
+VIEW struct.bd
+NO_GRAPHIC 31
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 6,0 40 0 
+DESIGN uart_top
+VIEW struct.bd
+NO_GRAPHIC 43
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 0,0 46 2 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 348,0 51 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 47,0 52 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 159,0 53 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 301,0 54 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 288,0 55 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 355,0 56 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 287,0 57 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 289,0 58 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 392,0 59 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 2324,0 60 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 362,0 61 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 125,0 62 0 
+DESIGN uart_top
+VIEW struct.bd
+NO_GRAPHIC 63
+DESIGN uart_top
+VIEW struct.bd
+NO_GRAPHIC 64
+LIBRARY UART
+DESIGN address_decode
+VIEW tbl
+GRAPHIC 12,0 66 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 186,0 68 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 208,0 69 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 219,0 70 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 37,0 71 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 149,0 72 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 94,0 73 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 105,0 74 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 3592,0 77 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 90,0 79 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 96,0 80 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 102,0 81 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 108,0 82 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 120,0 83 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 126,0 84 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 132,0 85 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 138,0 86 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 114,0 87 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 144,0 88 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 24,0 91 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 208,0 93 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 37,0 94 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 149,0 95 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 161,0 96 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 291,0 97 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 172,0 98 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 219,0 99 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 382,0 100 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 105,0 101 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 1702,0 102 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 394,0 103 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 1708,0 104 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 1714,0 105 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 70,0 108 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 1702,0 110 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 208,0 111 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 232,0 112 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 1708,0 113 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 219,0 114 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 255,0 115 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 94,0 116 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 243,0 117 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 1714,0 118 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 327,0 119 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 266,0 120 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 277,0 121 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 422,0 122 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 382,0 123 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 433,0 124 0 
+LIBRARY UART
+DESIGN uart_top
+VIEW struct.bd
+NO_GRAPHIC 127
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 12,0 130 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 3592,0 131 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 24,0 132 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 70,0 133 0 
+DESIGN uart_top
+VIEW struct.bd
+NO_GRAPHIC 136
+DESIGN uart_top
+VIEW struct.bd
+NO_GRAPHIC 138
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 12,0 140 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 3592,0 150 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 197,0 152 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 530,0 153 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 60,0 154 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 316,0 155 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 266,0 156 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 369,0 157 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 277,0 158 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 538,0 159 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 291,0 160 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 255,0 161 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 24,0 163 0 
+DESIGN uart_top
+VIEW struct.bd
+GRAPHIC 70,0 179 0 
+DESIGN uart_top
+VIEW struct.bd
+NO_GRAPHIC 198

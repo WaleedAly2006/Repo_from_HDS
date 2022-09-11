@@ -1,0 +1,99 @@
+DESIGN clock_divider
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 185,0 8 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 90,0 14 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 96,0 15 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 102,0 16 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 108,0 17 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 120,0 18 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 126,0 19 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 132,0 20 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 138,0 21 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 114,0 22 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 144,0 23 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+DESIGN clock_divider
+VIEW symbol.sb
+GRAPHIC 1,0 27 0 
+DESIGN clock_divider
+VIEW flow.fc
+NO_GRAPHIC 30
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 290,0 39 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 6,0 45 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 18,0 50 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 22,0 50 0 
+DESIGN clock_divider
+VIEW flow.fc
+NO_GRAPHIC 53
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 12,0 53 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 377,0 62 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 27,0 63 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 41,0 64 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 69,0 65 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 59,0 67 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 371,0 70 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 83,0 71 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 111,0 72 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 125,0 73 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 139,0 75 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 151,0 78 0 
+DESIGN clock_divider
+VIEW flow.fc
+GRAPHIC 9,0 85 0 

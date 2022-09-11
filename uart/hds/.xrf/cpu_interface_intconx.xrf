@@ -1,0 +1,152 @@
+DESIGN cpu_interface
+VIEW interface
+NO_GRAPHIC 0
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 207,0 8 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 919,0 14 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 874,0 15 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 879,0 16 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 884,0 17 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 894,0 18 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 899,0 19 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 929,0 20 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 904,0 21 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 909,0 22 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 914,0 23 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 889,0 24 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 924,0 25 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 934,0 26 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1,0 29 0 
+DESIGN cpu_interface
+VIEW interface
+GRAPHIC 1,0 30 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+NO_GRAPHIC 33
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 42,0 42 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+NO_GRAPHIC 45
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 0,0 50 2 
+DESIGN cpu_interface
+VIEW intconx.ibd
+NO_GRAPHIC 55
+DESIGN cpu_interface
+VIEW intconx.ibd
+NO_GRAPHIC 56
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm
+GRAPHIC 539,0 58 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 152,0 60 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 158,0 61 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 164,0 62 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 176,0 63 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 182,0 64 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 194,0 65 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 146,0 66 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 170,0 67 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 188,0 68 0 
+LIBRARY UART
+DESIGN cpu_interface
+VIEW intconx.ibd
+NO_GRAPHIC 71
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 539,0 74 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+NO_GRAPHIC 77
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 64,0 80 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+NO_GRAPHIC 83
+DESIGN cpu_interface
+VIEW intconx.ibd
+NO_GRAPHIC 84
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 539,0 86 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 162,0 88 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 176,0 89 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 182,0 90 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 196,0 91 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 202,0 92 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 216,0 93 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 427,0 94 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 465,0 95 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+GRAPHIC 445,0 96 0 
+DESIGN cpu_interface
+VIEW intconx.ibd
+NO_GRAPHIC 99

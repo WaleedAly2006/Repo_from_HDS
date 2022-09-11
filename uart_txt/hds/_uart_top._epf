@@ -1,0 +1,3 @@
+DEFAULT_FILE atom uart_top_rtl.vhd
+DEFAULT_ARCHITECTURE atom rtl
+TOP_MARKER atom 0

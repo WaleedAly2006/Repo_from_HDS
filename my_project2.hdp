@@ -1,0 +1,28 @@
+[DesignChecker]
+UART_MultiLib = $HDS_PROJECT_DIR/UART_MultiLib/designcheck
+[hdl]
+lib1 = $HDS_PROJECT_DIR/lib1/hdl
+lib2 = $HDS_PROJECT_DIR/lib2/hdl
+lib3 = $HDS_PROJECT_DIR/lib3/hdl
+UART = $HDS_PROJECT_DIR\UART\hdl
+UART_MultiLib = $HDS_PROJECT_DIR/UART_MultiLib/hdl
+[hds]
+lib1 = $HDS_PROJECT_DIR/lib1/hds
+lib2 = $HDS_PROJECT_DIR/lib2/hds
+lib3 = $HDS_PROJECT_DIR/lib3/hds
+UART = $HDS_PROJECT_DIR\UART\hds
+UART_MultiLib = $HDS_PROJECT_DIR/UART_MultiLib/hds
+[hds_settings]
+default_library = UART
+library_search_path = lib1
+version = 3
+[library_files_inclusion]
+UART = all
+[library_type]
+lib1 = regular
+lib2 = regular
+lib3 = regular
+UART = regular
+UART_MultiLib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp

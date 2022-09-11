@@ -1,0 +1,2 @@
+DEFAULT_FILE atom serial_interface/struct.bd
+DEFAULT_ARCHITECTURE atom struct

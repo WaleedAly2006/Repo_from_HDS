@@ -1,0 +1,2 @@
+DEFAULT_FILE atom status_registers_spec.vhd
+DEFAULT_ARCHITECTURE atom spec

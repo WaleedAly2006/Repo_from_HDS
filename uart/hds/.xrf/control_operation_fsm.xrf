@@ -1,0 +1,267 @@
+DESIGN control_operation
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 232,0 8 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 152,0 14 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 158,0 15 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 164,0 16 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 176,0 17 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 182,0 18 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 194,0 19 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 146,0 20 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 170,0 21 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 188,0 22 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+DESIGN control_operation
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 3,0 38 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 41
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 2,0 63 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 64
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 2,0 67 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 68
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 444,0 69 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 434,0 71 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 72
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 2,0 74 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 75
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 2,0 77 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 78
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 23,0 87 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 90
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 2,0 92 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 28,0 93 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 96,0 94 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 81,0 95 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 56,0 96 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 41,0 97 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 98
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 28,0 99 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 100
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 41,0 101 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 139,0 102 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 28,0 103 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 205,0 104 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 194,0 105 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 106
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 41,0 107 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 108
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 194,0 109 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 574,0 110 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 139,0 111 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 28,0 112 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 113
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 194,0 114 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 115
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 81,0 116 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 583,0 117 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 129,0 118 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 28,0 119 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 165,0 120 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 154,0 121 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 122
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 81,0 123 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 124
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 154,0 125 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 592,0 126 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 129,0 127 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 28,0 128 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 129
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 154,0 130 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 131
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+GRAPHIC 2,0 134 0
+LIBRARY UART
+DESIGN control_operation
+VIEW fsm.sm
+NO_GRAPHIC 136
